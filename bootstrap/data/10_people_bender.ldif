@@ -1,5 +1,4 @@
-dn:: Y249QmVuZGVyIEJlbmRpbmcgUm9kcsOtZ3VleixvdT1wZW9wbGUsZGM9cGxhbmV0ZXhwcmV
- zcyxkYz1jb20=
+dn: uid=bender,ou=people,dc=planetexpress,dc=com
 objectClass: inetOrgPerson
 objectClass: organizationalPerson
 objectClass: person

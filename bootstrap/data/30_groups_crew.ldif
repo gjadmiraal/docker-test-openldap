@@ -3,6 +3,6 @@ objectclass: Group
 objectclass: top
 groupType: 2147483650
 cn: ship_crew
-member: cn=Philip J. Fry,ou=people,dc=planetexpress,dc=com
-member: cn=Turanga Leela,ou=people,dc=planetexpress,dc=com
-member: cn=Bender Bending Rodríguez,ou=people,dc=planetexpress,dc=com
+member: uid=fry,ou=people,dc=planetexpress,dc=com
+member: uid=leela,ou=people,dc=planetexpress,dc=com
+member: uid=bender,ou=people,dc=planetexpress,dc=com
